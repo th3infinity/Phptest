@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<<body>
+<body>
 <?php
 
 if(!isset($_SESSION["session_ID"])) {
